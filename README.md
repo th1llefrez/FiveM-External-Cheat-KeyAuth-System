@@ -22,17 +22,7 @@ KeyAuth is prepared in a simple way.[Click for Details](#KeyAuth)
 
 <!--------------------------------------------------------------------------------------------------------------------->
 
-## Compilation
-1. Download the project to your computer.
-2. Open the Project with Visual Studio.
-3. Move the `logo.png` file inside the project to `C:\`.
-4. Compile the cheat from the Build Menu.
 
-- The Compiled File is in the .\x64 Section.
-
-**Note:** If you get an error while compiling, see the [Possible Mistakes](#Possible-Mistakes) section.
-
-<!--------------------------------------------------------------------------------------------------------------------->
 
 ## Usage
 
